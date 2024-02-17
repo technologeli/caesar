@@ -5,4 +5,4 @@ tool that I could use anywhere.
 
 Also, I wanted to try out [Mantine](https://mantine.dev/).
 
-You can find the site [here](https://caesar-26.vercel.app).
+You can find the site [here](https://caesar.elieu.dev).
